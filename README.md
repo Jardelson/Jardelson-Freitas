@@ -1,7 +1,5 @@
 <h1 align="center">Olá, me chamo Jardelson Freitas 👋</h1>
 
-<h1 align="center">Olá, me chamo Jardelson Freitas 👋</h1>
-
 <p align="center">Estudante de Engenharia de Computação, apaixonado por tecnologia, dados e inovação.<br>
 Busco constantemente aprender novas ferramentas e linguagens para me desenvolver na área de software e sistemas.</p>
 
